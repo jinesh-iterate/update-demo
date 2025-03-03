@@ -1,0 +1,23 @@
+{
+    "backend": {
+      "version": "1.0.1.0",
+      "download_url": "https://updates.myapp.com/backend_v2.0.0.exe",
+      "size": 123456    
+    },
+    "frontend": {
+      "version": "2.4.6.0",
+      "download_url": "https://updates.myapp.com/frontend_v2.0.0.zip",
+      "size": 123456
+    },
+    "internal": {
+      "version": "1.0.1.0",
+      "download_url": "https://updates.myapp.com/internal_v2.0.0.zip",
+      "size": 123456
+    },
+    "workflowcards": {
+      "version": "1.0.1.0",
+      "download_url": "https://updates.myapp.com/workflowcards_v2.0.0.zip",
+      "size": 123456
+    }
+  }
+  
