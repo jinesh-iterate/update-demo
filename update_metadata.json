@@ -1,6 +1,6 @@
 {
     "backend": {
-      "version": "1.0.1.0",
+      "version": "1.0.0.0",
       "download_url": "https://updates.myapp.com/backend_v2.0.0.exe",
       "size": 123456    
     },
